@@ -33,15 +33,15 @@ namespace DZ_2
                     
                     command.ExecuteNonQuery();
 
-                    message += "Таблица была успешно создана!";
+                    message = "Таблица была успешно создана!";
                 }
                 catch (DbException)
                 {
-                    message += "Такая таблица уже существует";
+                    message = "Такая таблица уже существует";
                 }
                 catch(Exception)
                 {
-                    message += "Произошла ошибка!";
+                    message = "Произошла ошибка!";
                 }
             }
 
