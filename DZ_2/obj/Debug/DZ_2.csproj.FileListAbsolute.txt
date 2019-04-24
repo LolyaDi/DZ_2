@@ -1,0 +1,9 @@
+C:\Users\ww\source\repos\DZ_2\DZ_2\bin\Debug\Database.mdf
+C:\Users\ww\source\repos\DZ_2\DZ_2\bin\Debug\Database_log.ldf
+C:\Users\ww\source\repos\DZ_2\DZ_2\bin\Debug\DZ_2.exe.config
+C:\Users\ww\source\repos\DZ_2\DZ_2\bin\Debug\DZ_2.exe
+C:\Users\ww\source\repos\DZ_2\DZ_2\bin\Debug\DZ_2.pdb
+C:\Users\ww\source\repos\DZ_2\DZ_2\obj\Debug\DZ_2.csprojAssemblyReference.cache
+C:\Users\ww\source\repos\DZ_2\DZ_2\obj\Debug\DZ_2.csproj.CoreCompileInputs.cache
+C:\Users\ww\source\repos\DZ_2\DZ_2\obj\Debug\DZ_2.exe
+C:\Users\ww\source\repos\DZ_2\DZ_2\obj\Debug\DZ_2.pdb
